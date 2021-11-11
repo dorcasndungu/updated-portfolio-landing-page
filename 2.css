@@ -32,3 +32,18 @@ p{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
  
 }
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  body {
+    background-color: linear-gradient(rgb(201, 96, 96),lightpink);
+  }
+}
+@media screen and (min-width: 768px) {
+body {
+  background-color: linear-gradient(rgb(201, 96, 96),lightpink);
+}
+.column {
+  width: 220px;
+  float: left;
+  padding: 15px;
+}
+}
