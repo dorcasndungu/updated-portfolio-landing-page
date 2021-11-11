@@ -7,7 +7,7 @@ This is a simple webpage with information about my projects which are mostly cre
 * Clone the repo :{git clone https://github.com/dorcasndungu/updated-portfolio-landing-page.git
 * No server or dependencies needed to run the code.
 ## Live link
-
+https://dorcasndungu.github.io/updated-portfolio-landing-page/
 ## Known Bugs
 The photos in the links l have provided may take some time to load.
 ## Technologies Used
