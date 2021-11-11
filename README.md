@@ -4,10 +4,10 @@
 ## Description
 This is a simple webpage with information about my projects which are mostly creating websites.
 ## Setup/Installation Requirements
-* Clone the repo :{git clone 
+* Clone the repo :{git clone https://github.com/dorcasndungu/updated-portfolio-landing-page.git
 * No server or dependencies needed to run the code.
 ## Live link
-https://kennjr.github.io/Portfolio
+
 ## Known Bugs
 The photos in the links l have provided may take some time to load.
 ## Technologies Used
